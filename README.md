@@ -1,4 +1,4 @@
-Application)
+📝 Notes App (Java Console Application)
 
 A simple Notes Management Application built in Java.
 This app allows users to create, view, and delete notes, with all notes being saved to a text file (notes.txt) for persistence.
